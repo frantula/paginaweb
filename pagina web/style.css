@@ -1,0 +1,57 @@
+
+.allconteiner{
+    background-image: url(imagenes/champions.jpg);
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+
+body{
+    background-image: url(imagenes/messi.png);
+    background-repeat: no-repeat;
+}
+
+h3{
+    color: aliceblue;
+}
+
+h1{
+    color: aqua;
+}
+h4{
+    color: rgb(199, 199, 199);
+}
+
+.foto1{
+    width: 500px;
+    height: 250px;
+}
+.foto2{
+    width: 350px;
+    height: 200px;
+}
+.foto{
+    height: 500px;
+    width: 250px;
+}
+.informacion{
+    color: brown;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+.a{
+    text-decoration: none;
+}
+   
+#messi{
+    color: #00ffd5;
+    font-family: sans-serif;
+
+}
